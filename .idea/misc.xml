@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/bg1.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/bg2.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/bg3.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/bg4.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/bg5.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/bg6.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/bg_button.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/custom_thumb.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/custom_track.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/label.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/level1.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/drawable/level2.xml" value="0.4585" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/layout/fragment_end.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/layout/fragment_game.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/layout/fragment_level.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/layout/fragment_options.xml" value="0.67" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/layout/fragment_start.xml" value="0.5" />
+        <entry key="..\:/Users/boris/StudioProjects/LiGastaball/app/src/main/res/layout/fragment_theme.xml" value="0.5752996352266806" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

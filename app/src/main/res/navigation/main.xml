@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.ligastaball.StartFragment"
+        android:label="StartFragment" />
+    <fragment
+        android:id="@+id/themeFragment"
+        android:name="com.ligastaball.ThemeFragment"
+        android:label="ThemeFragment" />
+    <fragment
+        android:id="@+id/levelFragment"
+        android:name="com.ligastaball.LevelFragment"
+        android:label="LevelFragment" />
+    <fragment
+        android:id="@+id/optionsFragment"
+        android:name="com.ligastaball.OptionsFragment"
+        android:label="OptionsFragment" />
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.ligastaball.GameFragment"
+        android:label="fragment_game"
+        tools:layout="@layout/fragment_game" />
+    <fragment
+        android:id="@+id/endFragment"
+        android:name="com.ligastaball.EndFragment"
+        android:label="EndFragment" />
+</navigation>
